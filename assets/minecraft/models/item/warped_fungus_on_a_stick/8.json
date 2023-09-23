@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/handheldinv",
+	"textures": {
+		"layer0": "item/warped_fungus_on_a_stick/8"
+	},
+	"display": {
+		"gui": {
+			"translation": [1, -1, 0]
+		}
+	}
+}
