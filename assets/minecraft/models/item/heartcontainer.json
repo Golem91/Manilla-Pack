@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/drop"
+		"layer0": "item/heartcontainer"
 	},
 	"display": {
 		"thirdperson_righthand": {

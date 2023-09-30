@@ -1,7 +1,15 @@
 {
+  "blocker.basic.name": "§dBasic Blocker",
+  "blocker.advanced.name": "§dAdvanced Blocker",
+  "blocker.elite.name": "§dElite Blocker",
+  "damager.basic.name": "§dBasic Damager",
+  "damager.advanced.name": "§dAdvanced Damager",
+  "damager.elite.name": "§dElite Damager",
   "item.minecraft.iron_axe": "Flint Axe",
   "item.minecraft.iron_hoe": "Flint Hoe",
   "item.minecraft.iron_pickaxe": "Flint Pickaxe",
   "item.minecraft.iron_shovel": "Flint Shovel",
-  "item.minecraft.iron_sword": "Flint Sword"
+  "item.minecraft.iron_sword": "Flint Sword",
+  "block.minecraft.repeating_command_block": "§fTool Flint",
+  "item.tear_of_mana.name": "§dTear of Mana"
 }

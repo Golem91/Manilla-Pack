@@ -5,7 +5,8 @@
 	},
 	"overrides": [
 	  {	"predicate":	{	"custom_model_data"	:	1	},	"model"	:	"minecraft:item/marker"	},
-	  {	"predicate":	{	"custom_model_data"	:	2	},	"model"	:	"minecraft:item/drop"	}
+	  {	"predicate":	{	"custom_model_data"	:	2	},	"model"	:	"minecraft:item/drop"	},
+	  { "predicate":	{	"custom_model_data" : 	3	},	"model" :	"minecraft:item/heartcontainer"	}
 	]
   }
   
